@@ -1,8 +1,5 @@
 /**
  * A simple class. Nothing more.
- *
- * @author Drew, drew@cs.purdue.edu
- * @version Aug. 09, 2020
  */
 public class Hello {
 
