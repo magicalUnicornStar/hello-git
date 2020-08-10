@@ -22,3 +22,6 @@
 
 # Output
 out/
+
+# macOS
+.DS_Store
